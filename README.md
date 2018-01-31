@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+MaggiesViewTool::Renderer.copyright 'Your Name', "All rights reserved"
 
 ## Development
 
